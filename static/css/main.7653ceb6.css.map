@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7653ceb6.css","mappings":"AAAA,KACE,eACF,CACA,MACE,WACF,CACA,SACE,UAEF,CACA,OACE,SACF","sources":["App.css"],"sourcesContent":["body {\n  text-align: left;\n}\n.data {\n  color: green;\n}\n.loading{\n  color: blue;\n\n}\n.error {\n  color: red;\n}"],"names":[],"sourceRoot":""}
