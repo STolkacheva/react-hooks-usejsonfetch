@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-hooks-usejsonfetch/static/css/main.7653ceb6.css",
-    "main.js": "/react-hooks-usejsonfetch/static/js/main.2f0607c6.js",
+    "main.js": "/react-hooks-usejsonfetch/static/js/main.a2754536.js",
     "index.html": "/react-hooks-usejsonfetch/index.html",
     "main.7653ceb6.css.map": "/react-hooks-usejsonfetch/static/css/main.7653ceb6.css.map",
-    "main.2f0607c6.js.map": "/react-hooks-usejsonfetch/static/js/main.2f0607c6.js.map"
+    "main.a2754536.js.map": "/react-hooks-usejsonfetch/static/js/main.a2754536.js.map"
   },
   "entrypoints": [
     "static/css/main.7653ceb6.css",
-    "static/js/main.2f0607c6.js"
+    "static/js/main.a2754536.js"
   ]
 }
