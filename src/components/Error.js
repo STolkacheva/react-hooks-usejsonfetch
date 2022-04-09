@@ -5,7 +5,7 @@ export default function Error() {
   const [data, loading, error] = useFetchJson("http://localhost:7070/error");
   return (
     <React.Fragment>
-      {error ? <div assName="error">{error}</div> : null}
+      {error ? <div className="error">{error}</div> : null}
     </React.Fragment>
   );
 }
